@@ -5,7 +5,7 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" alt="anii693" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
