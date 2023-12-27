@@ -1,8 +1,8 @@
 <img src=https://i.imgur.com/01o5Ll2.png/>
 
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
-<h4 align="center">🌱 I'm currently finishing my degree in Multiplatform Application Development</h4>
-
+<h4 align="center">👩🏼‍🎓 I'm currently finishing my degree in Multiplatform Application Development</h4>
+<h4 align="center">📖 and learning **React & Github**</h4>
 <h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
