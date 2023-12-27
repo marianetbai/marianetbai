@@ -6,6 +6,7 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <img src=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png height="60" width="40"/>
+<img src=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png height="60" width="40"/>
 
 
 
