@@ -1,13 +1,13 @@
 <img src=https://i.imgur.com/01o5Ll2.png/>
 
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
-🌱 I'm currently finishing my degree in Multiplatform Application Development
+<h1 align="center">🌱 I'm currently finishing my degree in Multiplatform Application Development</h1>
 
 <h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=.net,html,css,vscode,github,figma,git,canva" />
-    <img src="https://skillicons.dev/icons?i=c,java,mysql,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=.net,html,css,vscode,github,figma,git,canva"/>
+    <img src="https://skillicons.dev/icons?i=c,java,mysql,kotlin"/><br>
 </div>
 
 <h3 align="center">Connect with me:</h3>
