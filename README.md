@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
 🌱 I'm currently finishing my degree in Multiplatform Application Development
 
+<br>
+<h3 align="left">Languages and Tools:</h3>
+
 
 <!--
 
