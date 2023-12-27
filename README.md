@@ -3,6 +3,13 @@
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
 🌱 I'm currently finishing my degree in Multiplatform Application Development
 
+<h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:netbaimaria@gmail.com" target="blank"><img align="center" src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png alt="" height="30" width="40"/></a>
