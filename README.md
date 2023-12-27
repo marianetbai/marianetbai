@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
 🌱 I'm currently finishing my degree in **Multiplatform Application Development**
-<img align="right" alt="Coding" width="300" src=""C:\Users\Maria\Downloads\githubCab.png"">
+<img src="C:\Users\Maria\Downloads\githubCab.png">
 
 <!--
 **marianetbai/marianetbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
