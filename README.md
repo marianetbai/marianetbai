@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
 🌱 I'm currently finishing my degree in Multiplatform Application Development
-<blockquote class="imgur-embed-pub" lang="en" data-id="WleP14F"><a href="https://imgur.com/WleP14F">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<!--
-**marianetbai/marianetbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://imgur.com/WleP14F"/>
+
+<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
