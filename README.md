@@ -5,6 +5,8 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
+<img src=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png height="40" width="40"/>
+
 
 
 <h3 align="left">Connect with me:</h3>
