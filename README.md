@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
 🌱 I'm currently finishing my degree in Multiplatform Application Development
-<img src="https://imgur.com/a/JK0f6QO">
+<img src="[https://imgur.com/a/JK0f6QO](https://imgur.com/WleP14F)">
 
 <!--
 **marianetbai/marianetbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
