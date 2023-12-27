@@ -1,7 +1,8 @@
+<img src=https://i.imgur.com/WleP14F.png/>
+
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
 🌱 I'm currently finishing my degree in Multiplatform Application Development
 
-<img src=https://i.imgur.com/WleP14F.png/>
 
 <!--
 
