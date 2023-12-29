@@ -17,6 +17,4 @@
 <a href="https://instagram.com/marianetbai" target="blank"><img align="center" src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png alt="" height="40" width="40"/></a>
 </p>
 <br>
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marianetbai" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/marianetbai?trk=profile-badge">María Netbai</a></div>
-              
+ 
