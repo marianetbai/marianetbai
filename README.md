@@ -6,7 +6,7 @@
 <h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,visualstudio,html,css,vscode,github,figma,git,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=azure,visualstudio,html,css,vscode,github,figma,git,angular"/>
     <img src="https://skillicons.dev/icons?i=c,java,mysql,kotlin"/><br>
 </div>
 
