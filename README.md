@@ -1,13 +1,13 @@
 <img src=https://i.imgur.com/01o5Ll2.png/>
 
 <h1 align="center">Hi 👋, I'm María Netbai</h1>
-<h4 align="center">👩🏼‍🎓 I'm currently finishing my degree in Multiplatform Application Development</h4>
-<h4 align="center">📖 and self-training in data analysis and artificial intelligence 💪</h4>
+<h4 align="center">👩🏼‍🎓 I have finished a higher degree in cross-platform application development and I am currently working at Eviden (Atos) in Seville.</h4>
+<h4 align="center">📖 I continue training to expand my knowledge in various fields related to frontend, backend, SQL and NoSQL databases, containers (Docker / Kubernetes), authentication and authorization, AI and cloud development among others. 💪</h4>
 <h2 align="center">💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,visualstudio,html,css,vscode,github,figma,git,angular"/>
-    <img src="https://skillicons.dev/icons?i=c,java,mysql,kotlin"/><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,html,css,js,npm,nodejs,angular,react,vue,bootstrap,kubernetes,docker,mysql,mongodb,azure,postgres,postman"/>
+    <img src="https://skillicons.dev/icons?i="/><br>
 </div>
 
 <h3 align="center">Connect with me:</h3>
