@@ -7,7 +7,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,html,css,js,npm,nodejs,angular,react,vue,bootstrap,kubernetes,docker,mysql,mongodb,azure,postgres,postman"/>
-    <img src="https://skillicons.dev/icons?i="/><br>
 </div>
 
 <h3 align="center">Connect with me:</h3>
